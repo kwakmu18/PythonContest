@@ -15,6 +15,7 @@ def print_rangoli(size):
             if index!=size-1:sys.stdout.write('-')
             index+=1
         sys.stdout.write('-'*(2*(size-i-1))+"\n")
+
     for i in range(size-1,0,-1):
         index=size-1
         sys.stdout.write('-'*(2*(size-i)))
