@@ -1,0 +1,5 @@
+k=int(input())
+room=list(map(int, input().split()))
+roomsum=sum(room)
+roomsetsum=sum(set(room))
+print(((roomsum-(roomsetsum*k))*(-1)//(k-1)))
