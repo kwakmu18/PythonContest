@@ -1,2 +1,7 @@
 Company Logo
 Maximize It!
+Group(), Groups() & Groupdict()
+Reduce Function
+
+unsolved
+Re.Start() & Re.End()
